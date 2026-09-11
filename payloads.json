@@ -40,7 +40,7 @@
     {
       "name": "ShadowMountPlus (prerelease)",
       "filename": "ShadowMountPlus_1.7alpha13fix1.elf",
-      "url": "https://raw.githubusercontent.com/BrenoRippel/ps5-custom-payloads/main/mirror/ShadowMountPlus.elf",
+      "url": "https://brenorippel.github.io/ps5-custom-payloads/mirror/ShadowMountPlus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
       "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7alpha13fix1/ShadowMountPlus_1.7alpha13fix1.zip",
       "description": "Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compressed PFS containers.",

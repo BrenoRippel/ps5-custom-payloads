@@ -99,8 +99,13 @@ def sha256_of(path):
 
 
 def raw_url_for(rel_path):
-    slug = REPO_SLUG or "YOUR_GITHUB_USERNAME/YOUR_REPO_NAME"
-    return f"https://raw.githubusercontent.com/{slug}/main/{rel_path}"
+    # Served via GitHub Pages, not raw.githubusercontent.com: PS5 consoles/routers
+    # commonly have raw.githubusercontent.com DNS-blocklisted (it's abused to host
+    # malware payloads), while *.github.io Pages is essentially never blocklisted.
+    if REPO_SLUG and "/" in REPO_SLUG:
+        owner, repo = REPO_SLUG.split("/", 1)
+        return f"https://{owner.lower()}.github.io/{repo}/{rel_path}"
+    return f"https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/{rel_path}"
 
 
 def build_entry(cfg, tmp_dir):
