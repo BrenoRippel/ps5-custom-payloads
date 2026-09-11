@@ -14,18 +14,6 @@
       "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
     },
     {
-      "name": "kstuff-lite (EchoStretch)",
-      "filename": "kstuff_v1.10.elf",
-      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
-      "source": "https://github.com/EchoStretch/kstuff-lite/releases",
-      "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
-      "description": "Lite version of kstuff. Also mirrored in the official catalog; kept here so all kstuff variants sit side by side.",
-      "last_update": "2026-08-12",
-      "version": "v1.10",
-      "category": "System & Jailbreak",
-      "checksum": "82cbb1e70f8a562317d6b65269cf6aa0d7d94e22df4f1ac89a260ca0ec261252"
-    },
-    {
       "name": "kstuff-lite (drakmor fork)",
       "filename": "kstuff_1.2-dr-test2.elf",
       "url": "https://github.com/drakmor/kstuff-lite/releases/download/1.2-dr-test2/kstuff.elf",

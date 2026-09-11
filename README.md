@@ -6,8 +6,8 @@ following its [custom repository spec](https://github.com/itsPLK/ps5-payload-man
 Tracks, and auto-updates to, the newest release (stable or not) of:
 
 - [OnionHEN](https://github.com/aydencharles/onionHEN)
-- [kstuff-lite (EchoStretch)](https://github.com/EchoStretch/kstuff-lite)
-- [kstuff-lite (drakmor fork)](https://github.com/drakmor/kstuff-lite)
+- [kstuff-lite (drakmor fork)](https://github.com/drakmor/kstuff-lite) - EchoStretch's kstuff-lite is
+  already in the official catalog, so it's intentionally left out here
 - [ShadowMountPlus (drakmor prerelease branch)](https://github.com/drakmor/ShadowMountPlus) - latest alpha, not the official stable one
 - [APR Emu Updater](https://github.com/tsuramatsu1/apr-emu-updater)
 - [ProsperoMgr](https://github.com/notmaj0r/ProsperoMgr)
@@ -21,8 +21,10 @@ Tracks, and auto-updates to, the newest release (stable or not) of:
 3. In Payload Manager: **Settings → Manage Sources → Enable Multiple Payload Sources → Add Source**,
    paste:
    ```
-   https://raw.githubusercontent.com/<your-username>/<your-repo>/main/payloads.json
+   https://brenorippel.github.io/ps5-custom-payloads/payloads.json
    ```
+   Served via GitHub Pages, not `raw.githubusercontent.com` — the latter is a commonly
+   DNS-blocklisted domain and may fail to resolve on some networks/DNS setups.
 4. Payloads from this catalog show up grouped under "Breno's PS5 Payload Sources" in the Manage tab,
    alongside the official one.
 

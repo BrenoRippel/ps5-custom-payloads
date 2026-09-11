@@ -35,13 +35,6 @@ PAYLOADS = [
         "description": None,
     },
     {
-        "name": "kstuff-lite (EchoStretch)",
-        "repo": "EchoStretch/kstuff-lite",
-        "category": "System & Jailbreak",
-        "description": "Lite version of kstuff. Also mirrored in the official "
-                        "catalog; kept here so all kstuff variants sit side by side.",
-    },
-    {
         "name": "kstuff-lite (drakmor fork)",
         "repo": "drakmor/kstuff-lite",
         "category": "System & Jailbreak",
