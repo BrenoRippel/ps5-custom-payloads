@@ -6,7 +6,7 @@ following its [custom repository spec](https://github.com/itsPLK/ps5-payload-man
 Tracks, and auto-updates to, the newest release (stable or not) of:
 
 - [OnionHEN](https://github.com/aydencharles/onionHEN)
-- [kstuff-lite (EchoStretch)](https://github.com/EchoStretch/kstuff-lite) - already in the official catalog too, kept here for convenience
+- [kstuff-lite (EchoStretch)](https://github.com/EchoStretch/kstuff-lite)
 - [kstuff-lite (drakmor fork)](https://github.com/drakmor/kstuff-lite)
 - [ShadowMountPlus (drakmor prerelease branch)](https://github.com/drakmor/ShadowMountPlus) - latest alpha, not the official stable one
 - [APR Emu Updater](https://github.com/tsuramatsu1/apr-emu-updater)
