@@ -1,0 +1,77 @@
+{
+  "name": "Breno's PS5 Payload Sources",
+  "payloads": [
+    {
+      "name": "OnionHEN",
+      "filename": "OnionHEN_v0.0.13.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
+      "source": "https://github.com/aydencharles/onionHEN/releases",
+      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
+      "description": "Yet another HEN enabler for jailbroken PS5",
+      "last_update": "2026-09-11",
+      "version": "v0.0.13",
+      "category": "System & Jailbreak",
+      "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
+    },
+    {
+      "name": "kstuff-lite (EchoStretch)",
+      "filename": "kstuff_v1.10.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
+      "source": "https://github.com/EchoStretch/kstuff-lite/releases",
+      "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
+      "description": "Lite version of kstuff. Also mirrored in the official catalog; kept here so all kstuff variants sit side by side.",
+      "last_update": "2026-08-12",
+      "version": "v1.10",
+      "category": "System & Jailbreak",
+      "checksum": "82cbb1e70f8a562317d6b65269cf6aa0d7d94e22df4f1ac89a260ca0ec261252"
+    },
+    {
+      "name": "kstuff-lite (drakmor fork)",
+      "filename": "kstuff_1.2-dr-test2.elf",
+      "url": "https://github.com/drakmor/kstuff-lite/releases/download/1.2-dr-test2/kstuff.elf",
+      "source": "https://github.com/drakmor/kstuff-lite/releases",
+      "source_direct": "https://github.com/drakmor/kstuff-lite/releases/download/1.2-dr-test2/kstuff.elf",
+      "description": "drakmor's fork/test branch of kstuff-lite.",
+      "last_update": "2026-06-11",
+      "version": "1.2-dr-test2",
+      "category": "System & Jailbreak",
+      "checksum": "2b699d411079a21dba7c39a02993fc0fb21e52f434103e884a0c892fafe56b75"
+    },
+    {
+      "name": "ShadowMountPlus (prerelease)",
+      "filename": "ShadowMountPlus_1.7alpha13fix1.elf",
+      "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/mirror/ShadowMountPlus.elf",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7alpha13fix1/ShadowMountPlus_1.7alpha13fix1.zip",
+      "description": "Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compressed PFS containers.",
+      "last_update": "2026-09-04",
+      "version": "1.7alpha13fix1",
+      "category": "Utilities & Tools",
+      "checksum": "15af22e6cefefbcc9f16f137b5255b6b94d546788ba5f404dc9220da4759a6ff"
+    },
+    {
+      "name": "APR Emu Updater",
+      "filename": "apr_emu_updater_v2.0.6.elf",
+      "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
+      "source": "https://github.com/tsuramatsu1/apr-emu-updater/releases",
+      "source_direct": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
+      "description": "PS5 payload that keeps APR Emu up to date on installed titles, from a web interface on the console.",
+      "last_update": "2026-08-29",
+      "version": "v2.0.6",
+      "category": "Utilities & Tools",
+      "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
+    },
+    {
+      "name": "ProsperoMgr",
+      "filename": "ProsperoMgr_beta.elf",
+      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/beta/ProsperoMgr.elf",
+      "source": "https://github.com/notmaj0r/ProsperoMgr/releases",
+      "source_direct": "https://github.com/notmaj0r/ProsperoMgr/releases/download/beta/ProsperoMgr.elf",
+      "description": "Web-Based All-In-One manager for your PS5!",
+      "last_update": "2026-08-25",
+      "version": "beta",
+      "category": "Utilities & Tools",
+      "checksum": "6cde8d8e97478ff43f69d2c6b22ac6512311d83b1d9ceb09d56796b9200c1b3c"
+    }
+  ]
+}
