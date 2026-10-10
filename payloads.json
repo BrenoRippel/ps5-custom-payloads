@@ -27,15 +27,15 @@
     },
     {
       "name": "ShadowMountPlus (prerelease)",
-      "filename": "ShadowMountPlus_1.7beta4.elf",
+      "filename": "ShadowMountPlus_1.7beta5.elf",
       "url": "https://brenorippel.github.io/ps5-custom-payloads/mirror/ShadowMountPlus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta4/ShadowMountPlus_1.7beta4.zip",
+      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta5/ShadowMountPlus_1.7beta5.zip",
       "description": "Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compressed PFS containers.",
-      "last_update": "2026-10-03",
-      "version": "1.7beta4",
+      "last_update": "2026-10-10",
+      "version": "1.7beta5",
       "category": "Utilities & Tools",
-      "checksum": "fc4e5f715e76660ce34bde2adb10eaf1d069cb2cdf06f7a380896dfb62bd0c4a"
+      "checksum": "0d54a8467ec3544e1c7b365c9f100b2bf42bf4633cb768bde7c8f16b6cfb5375"
     },
     {
       "name": "APR Emu Updater",
