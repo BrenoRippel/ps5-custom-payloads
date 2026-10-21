@@ -26,18 +26,6 @@
       "checksum": "2b699d411079a21dba7c39a02993fc0fb21e52f434103e884a0c892fafe56b75"
     },
     {
-      "name": "ShadowMountPlus (prerelease)",
-      "filename": "ShadowMountPlus_1.7beta6-fix2.elf",
-      "url": "https://brenorippel.github.io/ps5-custom-payloads/mirror/ShadowMountPlus.elf",
-      "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta6-fix2/ShadowMountPlus_1.7beta6-fix2.zip",
-      "description": "Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compressed PFS containers.",
-      "last_update": "2026-10-21",
-      "version": "1.7beta6-fix2",
-      "category": "Utilities & Tools",
-      "checksum": "ec87ad20f78be2d7cb82e9d77e72352b079e049baac3c1a211960ccd6f252e62"
-    },
-    {
       "name": "APR Emu Updater",
       "filename": "apr_emu_updater_v2.0.6.elf",
       "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
