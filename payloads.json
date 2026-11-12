@@ -3,15 +3,15 @@
   "payloads": [
     {
       "name": "OnionHEN",
-      "filename": "OnionHEN_v0.9.0.elf",
-      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
+      "filename": "OnionHEN_nightly.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/nightly/OnionHEN.elf",
       "source": "https://github.com/aydencharles/onionHEN/releases",
-      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
+      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/nightly/OnionHEN.elf",
       "description": "Yet another HEN enabler for jailbroken PS5",
-      "last_update": "2026-10-15",
-      "version": "v0.9.0",
+      "last_update": "2026-11-12",
+      "version": "nightly",
       "category": "System & Jailbreak",
-      "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212"
+      "checksum": "d0620cc430c10ac2bc7776bd10265742075c7b782b5c8c3fd05cf46e752ed49e"
     },
     {
       "name": "kstuff-lite (drakmor fork)",
